@@ -25,7 +25,7 @@
 
 - I am currently studying programming at the UTN (Universidad Tecnologica Nacional).
 
-- My website: https//pablopaez.com.ar
+- My website: https://pablopaez.com.ar
 
 
 
