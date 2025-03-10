@@ -1,5 +1,4 @@
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -22,13 +21,12 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- I am dedicated to backend programming with Python and frameworks like Flask
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- I am currently studying programming at the UTN (Universidad Tecnologica Nacional).
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- My website: https//pablopaez.com.ar
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
 
 
